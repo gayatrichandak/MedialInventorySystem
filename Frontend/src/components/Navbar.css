@@ -1,0 +1,140 @@
+
+
+.navbar {
+  height: 60px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  border-bottom: 1px solid #eee;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+}
+
+.navbar-left h2 {
+  color: #3a8dff;
+  font-weight: 600;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background-color: #f2f4f7;
+  border-radius: 8px;
+  padding: 6px 12px;
+  gap: 8px;
+}
+
+.search-box input {
+  border: none;
+  outline: none;
+  background: none;
+  width: 200px;
+}
+
+.search-icon {
+  color: #888;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.icon {
+  font-size: 18px;
+  color: #555;
+  cursor: pointer;
+}
+
+.profile-img {
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+}
+
+.username {
+  font-size: 14px;
+  color: #333;
+}
+
+/* .logout-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+.logout-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: translateY(-3px); /* ✅ This line moves the button up slightly */
+}
+
+.logout-button:hover {
+  background-color: #155bb5;
+}
+
+.notification-dropdown {
+  position: absolute;
+  top: 60px;
+  right: 100px;
+  background-color: #ffffff;
+  padding: 12px 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  z-index: 1000;
+  min-width: 180px;
+  font-size: 14px;
+  color: #333;
+}
+
+.notification-wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.notification-count {
+  position: absolute;
+  top: -5px;
+  right: -8px;
+  background: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+.notification-dropdown {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  width: 250px;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  border-radius: 6px;
+  padding: 10px;
+  z-index: 999;
+}
+
+.notification-item {
+  font-size: 13px;
+  padding: 6px 10px;
+  border-bottom: 1px solid #eee;
+  color: #333;
+}
+
+.notification-item:last-child {
+  border-bottom: none;
+}
+
+

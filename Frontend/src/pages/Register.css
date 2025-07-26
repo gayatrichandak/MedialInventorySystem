@@ -1,0 +1,114 @@
+/* .register-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #f6f9fc;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.register-box {
+  background: white;
+  padding: 2rem 3rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  width: 420px;
+}
+
+.logo {
+  color: #2563eb;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.register-box h2 {
+  margin-bottom: 4px;
+}
+
+.register-box p {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+form input {
+  width: 100%;
+  padding: 12px 14px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.register-btn {
+  width: 100%;
+  background-color: #2563eb;
+  color: white;
+  padding: 12px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.register-btn:hover {
+  background-color: #1e4ed8;
+}
+
+.login-link {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 15px;
+} */
+
+.register-container {
+  max-width: 400px;
+  margin: 100px auto;
+  background-color: #ffffff;
+  padding: 30px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.register-container h2 {
+  margin-bottom: 20px;
+  color: #1e3a8a;
+  font-size: 26px;
+}
+
+.register-container input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.register-container button {
+  width: 100%;
+  background-color: #1e3a8a;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.register-container .error {
+  color: red;
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+.register-container p {
+  margin-top: 12px;
+  font-size: 14px;
+}

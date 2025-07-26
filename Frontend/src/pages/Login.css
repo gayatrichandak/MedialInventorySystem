@@ -1,0 +1,246 @@
+/* .login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f6f9ff;
+}
+
+.login-box {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 10px 0;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.login-box button {
+  width: 100%;
+  background: #2563eb;
+  color: white;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+} */
+/* //new */
+/* .login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f6f9ff;
+}
+
+.login-box {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-box h2 {
+  margin-bottom: 0.5rem;
+  color: #1e3a8a;
+}
+
+.login-box p {
+  margin-bottom: 1.5rem;
+  color: #555;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.login-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+.remember-me {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.forgot-password {
+  text-decoration: none;
+  color: #2563eb;
+}
+
+.login-box button {
+  width: 100%;
+  background: #2563eb;
+  color: white;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 15px;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: background 0.3s ease;
+}
+
+.login-box button:hover {
+  background: #1e40af;
+}
+
+.login-box a {
+  color: #2563eb;
+  text-decoration: none;
+} */
+ 
+/* .login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f6f9ff;
+}
+
+.login-box {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.remember-me {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.login-options a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.login-options a:hover {
+  text-decoration: underline;
+}
+
+.login-box button {
+  width: 100%;
+  background: #2563eb;
+  color: white;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}  */
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f6f9ff;
+}
+
+.login-box {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.medstock-title {
+  color: #2563eb; /* blue color */
+  font-size: 32px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.remember-me {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.login-options a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.login-options a:hover {
+  text-decoration: underline;
+}
+
+.login-box button {
+  width: 100%;
+  background: #2563eb;
+  color: white;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}

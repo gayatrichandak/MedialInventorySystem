@@ -1,0 +1,42 @@
+
+/* old */
+.recent-activity-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  padding-bottom: 40px;
+}
+
+.recent-activity {
+  background-color: #fff;
+  padding: 25px 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  width: 100%;
+  max-width: 1000px; /* Set max width for center alignment */
+}
+
+.recent-activity-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.recent-activity table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  min-width: 600px;
+}
+
+.recent-activity th,
+.recent-activity td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid #eee;
+}
+
+.recent-activity th {
+  background-color: #f5f5f5;
+  color: #333;
+}
