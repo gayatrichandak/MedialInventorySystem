@@ -3108,11 +3108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gayatri Chandak\\source\\repos\\Medical Inventory Management System\\Medical Inventory Management System\\Medical Inventory Management System.csproj",
+      "projectUniqueName": "C:\\Medical\\Backend\\Medical Inventory Management System.csproj",
       "projectName": "Medical Inventory Management System",
-      "projectPath": "C:\\Users\\Gayatri Chandak\\source\\repos\\Medical Inventory Management System\\Medical Inventory Management System\\Medical Inventory Management System.csproj",
+      "projectPath": "C:\\Medical\\Backend\\Medical Inventory Management System.csproj",
       "packagesPath": "C:\\Users\\Gayatri Chandak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gayatri Chandak\\source\\repos\\Medical Inventory Management System\\Medical Inventory Management System\\obj\\",
+      "outputPath": "C:\\Medical\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
